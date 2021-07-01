@@ -21,5 +21,7 @@ public class App {
         var variable11=123;
         String variable12="Hola\nmundo";
         System.out.println(variable12);
+        System.out.println("Hola");
+
     }
 }
